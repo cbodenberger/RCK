@@ -112,7 +112,7 @@ $button9.Add_Click({
     Write-Host "Kill Tanner's RingCentral"
     # Replace the command below with your actual command
     # For demonstration, it's just echoing a message
-    # taskkill /s CORPLT000 /f /im RingCentral.exe
+    # taskkill /s CORPLT333 /f /im RingCentral.exe
 })
 
 $button10 = New-Object System.Windows.Forms.Button
