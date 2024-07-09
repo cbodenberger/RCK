@@ -34,10 +34,10 @@ $button2.Add_Click({
 $button3 = New-Object System.Windows.Forms.Button
 $button3.Location = New-Object System.Drawing.Point(50,150)
 $button3.Size = New-Object System.Drawing.Size(200,30)
-$button3.Text = "Kill Allen's RingCentral"
+$button3.Text = "Kill Tyler's RingCentral"
 $button3.Add_Click({
     # Command to run when button 3 is clicked
-    Write-Host "Kill Allen's RingCentral"
+    Write-Host "Kill Tyler's RingCentral"
     # Replace the command below with your actual command
     # For demonstration, it's just echoing a message
     taskkill /s CORPLT666 /f /im RingCentral.exe
@@ -118,10 +118,10 @@ $button9.Add_Click({
 $button10 = New-Object System.Windows.Forms.Button
 $button10.Location = New-Object System.Drawing.Point(300,250)
 $button10.Size = New-Object System.Drawing.Size(200,30)
-$button10.Text = "Kill Kurtis' RingCentral"
+$button10.Text = "Kill Robert's RingCentral"
 $button10.Add_Click({
     # Command to run when button 10 is clicked
-    Write-Host "Kill Kurtis' RingCentral"
+    Write-Host "Kill Robert's RingCentral"
     # Replace the command below with your actual command
     # For demonstration, it's just echoing a message
     taskkill /s CORPLT285 /f /im RingCentral.exe
